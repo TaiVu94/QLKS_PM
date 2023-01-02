@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="do_an_csdl_hi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/do_an_csdl_hi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
